@@ -1,0 +1,2 @@
+rootProject.name='PeluqueriaCanina'
+include ':app'
