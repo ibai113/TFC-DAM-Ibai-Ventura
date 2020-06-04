@@ -66,70 +66,70 @@
     <string name="infoPreciosInformacion3">Perro gigante +30kg</string>
     <!--Baño y corte a maquina-->
     <string name="infoPreciosBañoyCorteMaquina">Baño y corte a maquina</string>
-    <string name="infoPreciosBañoyCorteMaquina1">Perro pequeño - mediano</string>
+    <string name="infoPreciosBañoyCorteMaquina1">Pequeño - mediano</string>
     <string name="infoPreciosBañoyCorteMaquina2">15€</string>
-    <string name="infoPreciosBañoyCorteMaquina3">Perro mediano - grande</string>
+    <string name="infoPreciosBañoyCorteMaquina3">Mediano - grande</string>
     <string name="infoPreciosBañoyCorteMaquina4">20€</string>
-    <string name="infoPreciosBañoyCorteMaquina5">Perro gigante</string>
+    <string name="infoPreciosBañoyCorteMaquina5">Gigante</string>
     <string name="infoPreciosBañoyCorteMaquina6">30€</string>
     <!--Baño y corte a tijera-->
     <string name="infoPrecioBañoyCorteTijera">Baño y corte a tijera</string>
-    <string name="infoPrecioBañoyCorteTijera1">Perro pequeño - mediano</string>
+    <string name="infoPrecioBañoyCorteTijera1">Pequeño - mediano</string>
     <string name="infoPrecioBañoyCorteTijera2">25€</string>
-    <string name="infoPrecioBañoyCorteTijera3">Perro mediano - grande</string>
+    <string name="infoPrecioBañoyCorteTijera3">Mediano - grande</string>
     <string name="infoPrecioBañoyCorteTijera4">35€</string>
-    <string name="infoPrecioBañoyCorteTijera5">Perro gigante</string>
+    <string name="infoPrecioBañoyCorteTijera5">Gigante</string>
     <string name="infoPrecioBañoyCorteTijera6">40€</string>
     <!--Baño y corte estetico-->
     <string name="infoPrecioBañoyCorteEstetico">Baño y corte estético</string>
-    <string name="infoPrecioBañoyCorteEstetico1">Perro pequeño - mediano</string>
+    <string name="infoPrecioBañoyCorteEstetico1">Pequeño - mediano</string>
     <string name="infoPrecioBañoyCorteEstetico2">20€</string>
-    <string name="infoPrecioBañoyCorteEstetico3">Perro mediano - grande</string>
+    <string name="infoPrecioBañoyCorteEstetico3">Mediano - grande</string>
     <string name="infoPrecioBañoyCorteEstetico4">25€</string>
-    <string name="infoPrecioBañoyCorteEstetico5">Perro gigante</string>
+    <string name="infoPrecioBañoyCorteEstetico5">Gigante</string>
     <string name="infoPrecioBañoyCorteEstetico6">30€</string>
     <!--Deslanado-->
     <string name="infoPrecioDeslanado">Deslanados</string>
-    <string name="infoPrecioDeslanado1">Perro pequeño - mediano</string>
+    <string name="infoPrecioDeslanado1">Pequeño - mediano</string>
     <string name="infoPrecioDeslanado2">20€</string>
-    <string name="infoPrecioDeslanado3">Perro mediano - grande</string>
+    <string name="infoPrecioDeslanado3">Mediano - grande</string>
     <string name="infoPrecioDeslanado4">35€</string>
-    <string name="infoPrecioDeslanado5">Perro gigante</string>
+    <string name="infoPrecioDeslanado5">Gigante</string>
     <string name="infoPrecioDeslanado6">45€</string>
     <!--Baño-->
     <string name="infoPrecioBaño">Baño</string>
-    <string name="infoPrecioBaño1">Perro pequeño - mediano</string>
+    <string name="infoPrecioBaño1">Pequeño - mediano</string>
     <string name="infoPrecioBaño2">Pelo corto 6€</string>
     <string name="infoPrecioBaño3">Pelo largo 8€</string>
-    <string name="infoPrecioBaño4">Perro mediano - grande</string>
+    <string name="infoPrecioBaño4">Mediano - grande</string>
     <string name="infoPrecioBaño5">Pelo corto 12€</string>
     <string name="infoPrecioBaño6">Pelo largo 15€</string>
-    <string name="infoPrecioBaño7">Perro gigante</string>
+    <string name="infoPrecioBaño7">Gigante</string>
     <string name="infoPrecioBaño8">Pelo corto 15€</string>
     <string name="infoPrecioBaño9">Pelo largo 20€</string>
     <string name="infoPrecioBaño10">Extra de 3€ por pelo muy enredado</string>
     <!--Baño Sanitario-->
     <string name="infoPrecioBañoSanitario">Baño sanitario</string>
-    <string name="infoPrecioBañoSanitario1">Perro pequeño - mediano</string>
+    <string name="infoPrecioBañoSanitario1">Pequeño - mediano</string>
     <string name="infoPrecioBañoSanitario2">Pelo corto 12€</string>
     <string name="infoPrecioBañoSanitario3">Pelo largo 15€</string>
-    <string name="infoPrecioBañoSanitario4">Perro mediano - grande</string>
+    <string name="infoPrecioBañoSanitario4">Mediano - grande</string>
     <string name="infoPrecioBañoSanitario5">Pelo corto 17€</string>
     <string name="infoPrecioBañoSanitario6">Pelo largo 20€</string>
-    <string name="infoPrecioBañoSanitario7">Perro gigante</string>
+    <string name="infoPrecioBañoSanitario7">Gigante</string>
     <string name="infoPrecioBañoSanitario8">Pelo corto 23€</string>
     <string name="infoPrecioBañoSanitario9">Pelo largo 23€</string>
     <string name="infoPrecioBañoSanitario10">Extra de 3€ por pelo muy enredado</string>
 
     <!--BañoSanitarioyCorte-->
     <string name="infoPrecioBañoSanitarioyCorte">Baño sanitario y corte</string>
-    <string name="infoPrecioBañoSanitarioyCorte1">Perro pequeño - mediano</string>
+    <string name="infoPrecioBañoSanitarioyCorte1">Pequeño - mediano</string>
     <string name="infoPrecioBañoSanitarioyCorte2">Pelo corto 14€</string>
     <string name="infoPrecioBañoSanitarioyCorte3">Pelo largo 19€</string>
-    <string name="infoPrecioBañoSanitarioyCorte4">Perro mediano - grande</string>
+    <string name="infoPrecioBañoSanitarioyCorte4">Mediano - grande</string>
     <string name="infoPrecioBañoSanitarioyCorte5">Pelo corto 23€</string>
     <string name="infoPrecioBañoSanitarioyCorte6">Pelo largo 26€</string>
-    <string name="infoPrecioBañoSanitarioyCorte7">Perro gigante</string>
+    <string name="infoPrecioBañoSanitarioyCorte7">Gigante</string>
     <string name="infoPrecioBañoSanitarioyCorte8">Pelo corto 26€</string>
     <string name="infoPrecioBañoSanitarioyCorte9">Pelo largo 30€</string>
     <string name="infoPrecioBañoSanitarioyCorte10">Extra de 3€ por pelo muy enredado</string>
@@ -142,12 +142,12 @@
 
     <!--Corte de uñas-->
     <string name="infoPrecioCorteDeUnas">Corte de uñas</string>
-    <string name="infoPrecioCorteDeUnas1">No importa el tamaño del perro</string>
+    <string name="infoPrecioCorteDeUnas1">Cualquier tamaño</string>
     <string name="infoPrecioCorteDeUnas2">2€</string>
 
     <!--Limpieza de oidos-->
     <string name="infoPrecioLimpiezaOidos">Limpieza de oídos</string>
-    <string name="infoPrecioLimpiezaOidos1">No importa el tamaño del perro</string>
+    <string name="infoPrecioLimpiezaOidos1">Cualquier tamaño</string>
     <string name="infoPrecioLimpiezaOidos2">2€</string>
 
     <!--Recogida a domicilio-->
@@ -192,7 +192,7 @@
     <string name="infoRequeteguaupos6">En Requeteguaupos ofrecemos a su perro un ambiente seguro, limpio y divertido para que se sientan como en casa. Dominamos todas las técnicas y tendencias para el arreglo de su perro según su raza.</string>
 
     <string name="infoRequeteguaupos7">CALIDAD</string>
-    <string name="infoRequeteguaupos8">Para Requeteguaupos lo mas importante es satisfacer las necesidadades de nuestros clientes y sus mascotas. Asesoramos a nuestros clientes sobre los cuidados de su perro, así como el cepillado, baño o cosmética necesaria para los diferentes tipos de mantos. </string>
+    <string name="infoRequeteguaupos8">Para Requeteguaupos lo más importante es satisfacer las necesidadades de nuestros clientes y sus mascotas. Asesoramos a nuestros clientes sobre los cuidados de su perro, así como el cepillado, baño o cosmética necesaria para los diferentes tipos de mantos. </string>
 
     <string name="infoRequeteguaupos9">Volver</string>
 
