@@ -12,3 +12,6 @@ El software mínimo del dispositivo para tener la aplicación seria de Android 5
 
 
  Enlace del video:
+https://drive.google.com/drive/folders/1iSFB6yOFMBaSFkrTORz-My4-3qt7lUCe?usp=sharing
+
+Para poder verlo habra que descargarlo, ya que no me dejo subirlo a youtube por pasar de 15 minutos de video.
